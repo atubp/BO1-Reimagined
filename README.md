@@ -1,16 +1,31 @@
 # Call of Duty: Black Ops Zombies - Reimagined
 
-## Created by: Jbleezy
+Note: Personal fork, work in progress, will be intended for SNA lang. in the future.
 
-[YouTube](https://youtube.com/c/ItsJbirdJustin1)
-
-[Twitch](https://twitch.tv/jbleezy)
-
-[Twitter](https://twitter.com/ItsJbleezy)
-
-[Discord](https://dsc.gg/Jbleezy)
-
-[Donate](https://streamlabs.com/jbleezy)
+## CREDITS
+Created by: Jbleezy
+* **_ApexModder_** - perk bump sounds, assisted with localized strings, assisted with client scripting, assisted with menu scripting
+* **_HitmanVere_** - sprint and dive animations for World at War weapons
+* **_lilrifa_** - assisted with menu scripting
+* **_MasadaDRM_** - assisted with weapons and sounds
+* **_xSanchez78_** - assisted with client scripting and localized strings
+* **_Kody_** - Wunderwaffe gold camo, fixed CIA and CDC viewmodels, assisted with animations
+* **_UltraZombieDino_** - Black Ops 3 P.E.S. model and animations, Black Ops 3 Gersh Device model, Black Ops 2 Ray Gun first raise and dry fire sounds, World at War marine models, assisted with World at War weapon models
+* **_KagamineAddict_** - updated P.E.S. visor texture
+* **_Joshwoocool_** - Black Ops 2 grief shock FX and meat FX
+* **_Killer Potato_** - Call of Duty: WWII Stielhandgranate HUD icon
+* **_Jerri13_** - Black Ops 3 Gersh Device model
+* **_KHEL MHO_** - assisted with Springfield chalk model
+* **_HomerJay42_** - Fonts
+* **_Ronan_** - Perks & powerups icons
+* **_binaryO_O_** - Crosshairs
+* **_MadKixs_** - Lighting bolt powerup icon base
+* **_ZeRoY_** - function list
+* **_UGX_** - scripting reference
+* **_SE2Dev_** - LinkerMod
+* **_Nukem_** - LinkerMod
+* **_DTZxPorter_** - Wraith
+* **_Treyarch_** - Assets, source code, and an amazing base game
 
 ## Change Notes
 
@@ -64,6 +79,9 @@
 
 ## HUD
 * HUD items have some distance away from the edge of the screen
+* Fonts have been upscaled to a higher resolution
+* Perks and powerups icons have been remade in a higher resolution
+* Crosshairs have been remade in a higher resolution
 * Damage icon time matches the health regeneration time
 * Zombie counter displayed on the top left
 * Total time displayed on the top right
@@ -1127,6 +1145,8 @@
 * Increased cost of the debris between the Lighthouse Cove zone and the Lower Ship Cargo Hold zone from 750 to 1000
 * Zombies no longer take damage from the water when low on health
 * Fixed a bug where players could occasionally die in the Lighthouse Station Roof zone if they jumped too far off the staircase
+* Now George Romero will always drop a Lighting Bolt powerup
+* Lighting Bolt powerup model and icon have been reworked to match the mobile version
 
 #### Flinger
 * Zombies flung no longer respawn
@@ -1355,23 +1375,3 @@
 * New powerup: upgrade weapon powerup (for 30 seconds get the upgraded version of any weapon you are currently on)
 * Shangri-La: unlimited Napalm and Shrieker zombies can spawn (only one of each can be spawned in at a time)
 * Moon: unlimited Cosmonaut zombies can spawn (only one can be spawned in at a time)
-
-## SPECIAL THANKS
-* **_ApexModder_** - perk bump sounds, assisted with localized strings, assisted with client scripting, assisted with menu scripting
-* **_HitmanVere_** - sprint and dive animations for World at War weapons
-* **_lilrifa_** - assisted with menu scripting
-* **_MasadaDRM_** - assisted with weapons and sounds
-* **_xSanchez78_** - assisted with client scripting and localized strings
-* **_Kody_** - Wunderwaffe gold camo, fixed CIA and CDC viewmodels, assisted with animations
-* **_UltraZombieDino_** - Black Ops 3 P.E.S. model and animations, Black Ops 3 Gersh Device model, Black Ops 2 Ray Gun first raise and dry fire sounds, World at War marine models, assisted with World at War weapon models
-* **_KagamineAddict_** - updated P.E.S. visor texture
-* **_Joshwoocool_** - Black Ops 2 grief shock FX and meat FX
-* **_Killer Potato_** - Call of Duty: WWII Stielhandgranate HUD icon
-* **_Jerri13_** - Black Ops 3 Gersh Device model
-* **_KHEL MHO_** - assisted with Springfield chalk model
-* **_ZeRoY_** - function list
-* **_UGX_** - scripting reference
-* **_SE2Dev_** - LinkerMod
-* **_Nukem_** - LinkerMod
-* **_DTZxPorter_** - Wraith
-* **_Treyarch_** - Assets, source code, and an amazing base game
